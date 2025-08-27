@@ -1,0 +1,7 @@
+# Reddit "create application" mezők (másolható)
+name: Reddit Comment Exporter (Local)
+type: script
+description: Local tool to export subreddit comments for research (read-only).
+about url: https://github.com/your-username/reddit-comment-exporter
+redirect uri: http://localhost:8080
+User-Agent (példa a .env-hez): linux:joci-reddit-scraper:1.0 (by /u/YOUR_REDDIT_USERNAME)
